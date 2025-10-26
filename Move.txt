@@ -1,0 +1,9 @@
+Public class Move : монобехавиор
+{
+
+	void start()
+{
+ персонаж бежит
+}
+
+}
